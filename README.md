@@ -13,11 +13,11 @@
 
 | 프로젝트             | 페어                                                                          | 1단계                                                                     | 2단계                                                                      |
 | -------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| 계산기               | [빅터](https://github.com/woose28)                                            | [PR](https://github.com/woowacourse/javascript-calculator/pull/21)        |
-| 자동차 경주          | [빅터](https://github.com/woose28)                                            | [PR](https://github.com/woowacourse/javascript-racingcar/pull/83)         | [PR](https://github.com/woowacourse/javascript-racingcar/pull/131)         |
-| 행운의 로또          | [콜라](https://github.com/intae92), [하리](https://github.com/LAH1203)        | [PR](https://github.com/woowacourse/javascript-lotto/pull/103)            | [PR](https://github.com/woowacourse/javascript-lotto/pull/148)             |
-| 나만의 유튜브 강의실 | [앨버](https://github.com/al-bur)                                             | [PR](https://github.com/woowacourse/javascript-youtube-classroom/pull/88) | [PR](https://github.com/woowacourse/javascript-youtube-classroom/pull/138) |
-| 자판기               | [블링](https://github.com/uk960214), [동키콩](https://github.com/JUDONGHYEOK) | [PR](https://github.com/woowacourse/javascript-vendingmachine/pull/17)    | [PR](https://github.com/woowacourse/javascript-vendingmachine/pull/72)     |
+| [계산기](https://github.com/woowacourse/javascript-calculator)               | [빅터](https://github.com/woose28)                                            | [PR](https://github.com/woowacourse/javascript-calculator/pull/21)        |
+| [자동차 경주](https://github.com/woowacourse/javascript-racingcar)          | [빅터](https://github.com/woose28)                                            | [PR](https://github.com/woowacourse/javascript-racingcar/pull/83)         | [PR](https://github.com/woowacourse/javascript-racingcar/pull/131)         |
+| [행운의 로또](https://github.com/woowacourse/javascript-lotto)          | [콜라](https://github.com/intae92), [하리](https://github.com/LAH1203)        | [PR](https://github.com/woowacourse/javascript-lotto/pull/103)            | [PR](https://github.com/woowacourse/javascript-lotto/pull/148)             |
+| [나만의 유튜브 강의실](https://github.com/woowacourse/javascript-youtube-classroom) | [앨버](https://github.com/al-bur)                                             | [PR](https://github.com/woowacourse/javascript-youtube-classroom/pull/88) | [PR](https://github.com/woowacourse/javascript-youtube-classroom/pull/138) |
+| [자판기](https://github.com/woowacourse/javascript-vendingmachine)               | [블링](https://github.com/uk960214), [동키콩](https://github.com/JUDONGHYEOK) | [PR](https://github.com/woowacourse/javascript-vendingmachine/pull/17)    | [PR](https://github.com/woowacourse/javascript-vendingmachine/pull/72)     |
 
 - 관련 블로그 포스트
   - [자동차 경주 미션 - 회고 #1](https://velog.io/@lokba/%EC%9A%B0%EC%95%84%ED%95%9C-%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-4%EA%B8%B0-level-1-1%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
@@ -42,10 +42,10 @@
 
 | 프로젝트             | 페어                                                                            | 1단계                                                                 | 2단계                                                                 | 3단계                                                        |
 | -------------------- | ------------------------------------------------------------------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------ |
-| 리액트 계산기        | [민초](https://github.com/jswith)                                               | [PR](https://github.com/woowacourse/react-calculator/pull/24)         | [PR](https://github.com/woowacourse/react-calculator/pull/66)         |                                                              |
-| 리액트 페이먼츠      | [무비](https://github.com/byhhh2)                                               | [PR](https://github.com/woowacourse/react-payments/pull/85)           | [PR](https://github.com/woowacourse/react-payments/pull/109)          | [PR](https://github.com/woowacourse/react-payments/pull/185) |
-| 리액트 장바구니      | [샐리](https://github.com/liswktjs)                                             | [PR](https://github.com/woowacourse/react-shopping-cart/pull/85)      | [PR](https://github.com/woowacourse/react-shopping-cart/pull/129)     |                                                              |
-| 리액트 장바구니 협업 | [우디](https://github.com/greenblues1190) | [PR](https://github.com/woowacourse/react-shopping-cart-prod/pull/36) | [PR](https://github.com/woowacourse/react-shopping-cart-prod/pull/64) |                                                              |
+| [리액트 계산기](https://github.com/woowacourse/react-calculator)        | [민초](https://github.com/jswith)                                               | [PR](https://github.com/woowacourse/react-calculator/pull/24)         | [PR](https://github.com/woowacourse/react-calculator/pull/66)         |                                                              |
+| [리액트 페이먼츠](https://github.com/woowacourse/react-payments)      | [무비](https://github.com/byhhh2)                                               | [PR](https://github.com/woowacourse/react-payments/pull/85)           | [PR](https://github.com/woowacourse/react-payments/pull/109)          | [PR](https://github.com/woowacourse/react-payments/pull/185) |
+| [리액트 장바구니](https://github.com/woowacourse/react-shopping-cart)      | [샐리](https://github.com/liswktjs)                                             | [PR](https://github.com/woowacourse/react-shopping-cart/pull/85)      | [PR](https://github.com/woowacourse/react-shopping-cart/pull/129)     |                                                              |
+| [리액트 장바구니 협업](https://github.com/woowacourse/react-shopping-cart-prod) | [우디](https://github.com/greenblues1190) | [PR](https://github.com/woowacourse/react-shopping-cart-prod/pull/36) | [PR](https://github.com/woowacourse/react-shopping-cart-prod/pull/64) |                                                              |
 
 - 관련 블로그 포스트
   - [페이먼츠 미션 - 회고 #1](https://velog.io/@lokba/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-4%EA%B8%B0-level-2-13%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
@@ -96,9 +96,9 @@
 
 |프로젝트|1단계|2단계|리뷰 한 PR|
 | :-------------: | :--------------------------------------------------------: | :---: | :----------------------------------------------------------------: |
-| 성능 베이스캠프 | [PR](https://github.com/woowacourse/perf-basecamp/pull/44) |       | [리뷰 한 PR](https://github.com/woowacourse/perf-basecamp/pull/39) |     |
-|   TypeScript    |   [PR](https://github.com/woowacourse/ts-module/pull/9)    |       |   [리뷰 한 PR](https://github.com/woowacourse/ts-module/pull/29)   |     |
-|    웹 접근성    |   [PR](https://github.com/woowacourse/ts-module/pull/26)   |       |    [리뷰 한PR](https://github.com/woowacourse/ts-module/pull/9)    |     |
+| [성능 베이스캠프](https://github.com/woowacourse/perf-basecamp) | [PR](https://github.com/woowacourse/perf-basecamp/pull/44) |       | [리뷰 한 PR](https://github.com/woowacourse/perf-basecamp/pull/39) |     |
+|   [Typescript](https://github.com/woowacourse/ts-module)    |   [PR](https://github.com/woowacourse/ts-module/pull/9)    |       |   [리뷰 한 PR](https://github.com/woowacourse/ts-module/pull/29)   |     |
+|    [웹 접근성](https://github.com/woowacourse/a11y-airline)    |   [PR](https://github.com/woowacourse/ts-module/pull/26)   |       |    [리뷰 한PR](https://github.com/woowacourse/ts-module/pull/9)    |     |
 
 <br/>
 
