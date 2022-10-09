@@ -59,7 +59,7 @@
 
 ### 팀 프로젝트
 
-### 목표📋
+#### 목표📋
 
 - [x] 개발 프로세스 기반으로 프로젝트를 진행, 협업하는 경험을 한다.
 - [x] 서비스를 기획, 구현, 배포해 실 사용자가 사용하도록 개발하는 경험을 합니다.
@@ -73,14 +73,14 @@
 
 #### 스프린트
 
-|     | 데모 데이 영상                                               |
-| --- | ------------------------------------------------------------ | --- |
-| 1차 | [1차 데모 영상](https://www.youtube.com/watch?v=mKV3osPRtdc) |     |
-| 2차 | [2차 데모 영상](https://www.youtube.com/watch?v=LQRxmFMnFfo) |     |
-| 3차 | [3차 데모 영상](https://www.youtube.com/watch?v=y2cudTZ8seY) |     |
+|     | 데모 데이 영상 | 
+| --- | --------------------------------------------------------- | 
+| 1차 | [1차 데모 영상](https://www.youtube.com/watch?v=mKV3osPRtdc) |   
+| 2차 | [2차 데모 영상](https://www.youtube.com/watch?v=LQRxmFMnFfo) |   
+| 3차 | [3차 데모 영상](https://www.youtube.com/watch?v=y2cudTZ8seY) |   
 | 4차 | [4차 데모 영상](https://www.youtube.com/watch?v=-Y4DfIsRrzA) |
-| 5차 | 준비중                                                       |
-| 6차 | 준비중                                                       |
+| 5차 | 준비중 |
+| 6차 | 준비중 |
 
 <br/>
 
