@@ -45,7 +45,7 @@
 | 리액트 계산기        | [민초](https://github.com/jswith)                                               | [PR](https://github.com/woowacourse/react-calculator/pull/24)         | [PR](https://github.com/woowacourse/react-calculator/pull/66)         |                                                              |
 | 리액트 페이먼츠      | [무비](https://github.com/byhhh2)                                               | [PR](https://github.com/woowacourse/react-payments/pull/85)           | [PR](https://github.com/woowacourse/react-payments/pull/109)          | [PR](https://github.com/woowacourse/react-payments/pull/185) |
 | 리액트 장바구니      | [샐리](https://github.com/liswktjs)                                             | [PR](https://github.com/woowacourse/react-shopping-cart/pull/85)      | [PR](https://github.com/woowacourse/react-shopping-cart/pull/129)     |                                                              |
-| 리액트 장바구니 협업 | [우디](https://github.com/greenblues1190), [온스타](https://github.com/cks3066) | [PR](https://github.com/woowacourse/react-shopping-cart-prod/pull/36) | [PR](https://github.com/woowacourse/react-shopping-cart-prod/pull/64) |                                                              |
+| 리액트 장바구니 협업 | [우디](https://github.com/greenblues1190) | [PR](https://github.com/woowacourse/react-shopping-cart-prod/pull/36) | [PR](https://github.com/woowacourse/react-shopping-cart-prod/pull/64) |                                                              |
 
 - 관련 블로그 포스트
   - [페이먼츠 미션 - 회고 #1](https://velog.io/@lokba/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-4%EA%B8%B0-level-2-13%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
