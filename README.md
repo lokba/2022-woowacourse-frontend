@@ -93,8 +93,9 @@
 - [x] TypeScript를 깊이있게 이해하고 다뤄본다.
 - [x] 웹접근성 시나리오에 따라 적절한 속성을 추가할 수 있는 역량을 향상해본다.
 
-|    프로젝트     |                           1단계                            | 2단계 |                             리뷰 한 PR                             |
-| :-------------: | :--------------------------------------------------------: | :---: | :----------------------------------------------------------------: | --- |
+
+|프로젝트|1단계|2단계|리뷰 한 PR|
+| :-------------: | :--------------------------------------------------------: | :---: | :----------------------------------------------------------------: |
 | 성능 베이스캠프 | [PR](https://github.com/woowacourse/perf-basecamp/pull/44) |       | [리뷰 한 PR](https://github.com/woowacourse/perf-basecamp/pull/39) |     |
 |   TypeScript    |   [PR](https://github.com/woowacourse/ts-module/pull/9)    |       |   [리뷰 한 PR](https://github.com/woowacourse/ts-module/pull/29)   |     |
 |    웹 접근성    |   [PR](https://github.com/woowacourse/ts-module/pull/26)   |       |    [리뷰 한PR](https://github.com/woowacourse/ts-module/pull/9)    |     |
@@ -110,6 +111,7 @@
 #### 1. 테코톡
 
 [웹 성능 개선하기 - 이미지](https://www.youtube.com/watch?v=INPldifIEXE)
+
 <img src="https://i.ytimg.com/vi/INPldifIEXE/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDxMYh5jqhZV45pbCHmLFQapz5-FA"/>
 
 #### 2. 인터뷰 챌린지
