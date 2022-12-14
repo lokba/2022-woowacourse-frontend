@@ -98,7 +98,7 @@
 | :-------------: | :--------------------------------------------------------: | :---: | :----------------------------------------------------------------: |
 | [성능 베이스캠프](https://github.com/woowacourse/perf-basecamp) | [PR](https://github.com/woowacourse/perf-basecamp/pull/44) |       | [리뷰 한 PR](https://github.com/woowacourse/perf-basecamp/pull/39) |     |
 |   [Typescript](https://github.com/woowacourse/ts-module)    |   [PR](https://github.com/woowacourse/ts-module/pull/9)    |       |   [리뷰 한 PR](https://github.com/woowacourse/ts-module/pull/29)   |     |
-|    [웹 접근성](https://github.com/woowacourse/a11y-airline)    |   [PR](https://github.com/woowacourse/ts-module/pull/26)   |       |    [리뷰 한 PR](https://github.com/woowacourse/ts-module/pull/9)    |     |
+|    [웹 접근성](https://github.com/woowacourse/a11y-airline)    |   [PR](https://github.com/woowacourse/a11y-airline/pull/26)   | [PR](https://github.com/woowacourse/a11y-airline/pull/78)      |    [리뷰 한 PR](https://github.com/woowacourse/a11y-airline/pull/33)    |     |
 
 <br/>
 
